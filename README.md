@@ -1,5 +1,9 @@
 # Welcome to your Lovable project
 
+## Disclaimer:
+
+This is not a independantly created project. This repo is meant as a Test Case and a visualized prototype MVP for an idea. I do not claim this to be representative of my own work.
+
 ## Project info
 
 **URL**: https://lovable.dev/projects/2a3752bc-ecb0-497e-b09d-5a06144dfbb8
